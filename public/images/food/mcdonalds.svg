@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#fef3c7" width="400" height="300"/>
+  <path fill="#dc2626" d="M160 100c0 50-20 100-20 100h40s-20-50-20-100zM240 100c0 50-20 100-20 100h40s-20-50-20-100z"/>
+  <text fill="#fbbf24" font-family="sans-serif" font-weight="bold" font-size="80" x="145" y="170">M</text>
+</svg>
